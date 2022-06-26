@@ -1,7 +1,18 @@
 # Raphael Flor
 
+
 ## Minecraft Skript Learner
+
 I am a Minecraft Skript learner
+
+## About me
+
+
+## My projects
+I am the owner of [Minerr.ch](https://minerr.ch)
+
+![Image](https://minerr.ch/storage/img/logo.png)
+
 
 ### Markdown
 

@@ -13,6 +13,8 @@ I am the owner of [Minerr.ch](https://minerr.ch)
 
 ![Image](https://minerr.ch/storage/img/logo.png)
 
+![Image](https://icons.getbootstrap.com/assets/icons/discord.svg) [Discord Server](https://minerr.ch/discord)
+
 `minerr.ch`
 
 
